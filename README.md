@@ -11,5 +11,5 @@ Discord bot to display a Steam server's player count via its presence message.
 4. Invite your bot to your Discord server by generating an OAuth2 URL.
 5. Open `config.py` in your preferred text editor and set your bot token and server address.
 6. Install the necessary packages using pip, `pip install -r requirements.txt`.
-7. Run the bot using `python bot.py` (If Python 3.6+ isn't your default version of Python you may have to run `python3.6 bot.py` or something similar.)
+7. Run the bot using `python bot.py`. (If Python 3.6+ isn't your default version of Python you may have to run `python3.6 bot.py` or something similar.)
 8. Optionally, create a separate role for your bot with the "Display role members separately from online members" option enabled for better effect.
